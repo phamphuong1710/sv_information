@@ -1,0 +1,16 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+.header{
+	background-color: #305379;
+	width: 100%;
+	height: 50px;
+}
+.text{
+	padding: 20px;
+	color: white;
+}
+.check{
+	color:red;
+}
